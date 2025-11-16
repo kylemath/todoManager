@@ -1,0 +1,11 @@
+{
+  "id": "todoManager",
+  "title": "todoManager",
+  "oneLiner": "I simple lightweight html todo list manager example using localStorage or can be hosted locally with database",
+  "demoUrl": "https://kylemath.github.io/todoManager",
+  "screenshot": "https://raw.githubusercontent.com/kylemath/todoManager/main/screenshot.png",
+  "kind": "project",
+  "categories": ["todo", "work", "schedule"],
+  "tags": ["todo", "work", "schedule"],
+  "status": "published"
+}

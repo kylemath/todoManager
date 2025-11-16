@@ -1,0 +1,33 @@
+# Database files (contains personal data)
+todos.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+
+# Files added by git-init-repo script
+.vscode/settings.json
+node_modules/.package-lock.json
