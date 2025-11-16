@@ -1,5 +1,7 @@
 # Todo Manager
 
+🚀 **[Live Demo](https://kylemath.github.io/todo)** 🚀
+
 A modern todo application with persistent storage options (database or localStorage).
 
 ## Quick Start (GitHub Pages / Static Hosting)
