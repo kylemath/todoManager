@@ -1,6 +1,6 @@
 # Todo Manager
 
-🚀 **[Live Demo](https://kylemath.github.io/todo)** 🚀
+🚀 **[Live Demo](https://kylemath.github.io/todoManager)** 🚀
 
 A modern todo application with persistent storage options (database or localStorage).
 
